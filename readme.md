@@ -4,7 +4,7 @@ The Dust project is no longer maintained.
 
 ---
 
-# [broccoli](https://github.com/joliss/broccoli)-dust [![Build Status](https://travis-ci.org/sindresorhus/broccoli-dust.svg?branch=master)](https://travis-ci.org/sindresorhus/broccoli-dust)
+# [broccoli](https://github.com/joliss/broccoli)-dust
 
 > Precompile [Dust](https://github.com/linkedin/dustjs) templates
 
